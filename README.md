@@ -1,0 +1,19 @@
+# ssm-template
+
++ config
++ component
++ constant
++ controller
++ dao
++ dto
++ exception
++ filter
++ formatter
++ formbean(vo)
++ interceptor
++ mapper
++ pojo
++ resovler
++ service
++ util
++ websocket
