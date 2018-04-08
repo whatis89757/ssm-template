@@ -1,4 +1,4 @@
-package com.cttdy.generic.compoment;
+package com.cttdy.generic.component;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;
